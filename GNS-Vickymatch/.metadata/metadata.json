@@ -1,0 +1,12 @@
+{
+  "name" : "GNS-Vickymatch",
+  "id" : "",
+  "version" : "0.1",
+  "supported_game_version" : "1.6.*",
+  "short_description" : "An MP mod for Vic3 with some gamey stuff",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
